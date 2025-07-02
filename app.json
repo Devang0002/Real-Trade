@@ -1,0 +1,9 @@
+{
+  "name": "RealTrade",
+  "displayName": "Real Trade",
+  "version": "1.0.0",
+  "description": "Automated Crypto Trading Mobile App",
+  "main": "index.js",
+  "author": "Real Trade Team",
+  "license": "MIT"
+}
